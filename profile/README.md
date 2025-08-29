@@ -1,13 +1,15 @@
-# Welcome to Superint Software
+# Welcome to Nutrivine
 
-We believe in making reality better with a piece of code, crafting innovative software solutions that integrate cutting-edge AI to improve daily life with practicality and user-friendliness at the core.
+Eat smarter, live better.
 
-## Our Projects
+We’re building tools that make healthy eating simple, accessible, and free from unnecessary paywalls. Nutrivine is more than a diet tracker, it’s your partner in smarter nutrition.
 
-- [Food Detective](https://superintsoftware.com/apps/food-detective): Food tracking app that goes beyond simple calorie counting.
+## Our App
+
+- [Nutrivine](https://nutrivine.app): A powerful and generous nutrition tracker designed to help you build healthier habits without hidden costs.
 
 ## Contact Us
 
-For inquiries, please reach out to us at [contact@superintsoftware.com](mailto:contact@superintsoftware.com).
+For inquiries, please reach out to us at [contact@nutrivine.app](mailto:contact@nutrivine.app).
 
-Visit our website: [superintsoftware.com](https://superintsoftware.com/)
+Visit our website: [nutrivine.app](https://nutrivine.app)
