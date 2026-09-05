@@ -1,5 +1,13 @@
 # Nutrivine
 
+*“It started with a pear, oatmeal, and a spark of curiosity.  
+Nutrivine grew from there.”*
+
+**— M. Emre Yalcin, Founder**
+
+<br>
+<br>
+
 **Eat smarter, live better.**
 
 Nutrivine is a free, AI-powered nutrition and health tracking app for iOS and Android. We make healthy eating simple, accessible, and free from unnecessary paywalls - providing expert nutritional guidance without expensive dietitians or frustrating subscriptions.
